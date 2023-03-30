@@ -11,9 +11,7 @@ To run this project, you will need the following Python packages:
     scikit-learn
     gensim
 
-You can install these packages using pip:
-
-'''pip install pandas numpy scikit-learn gensim'''
+You can install these packages using pip:  ```pip install -r requirements.txt```
 
 You will also need to download the pre-trained GloVe embeddings from the Stanford website. We recommend using the 300-dimensional embeddings trained on the Common Crawl dataset.
 
