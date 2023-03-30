@@ -2,6 +2,11 @@
 
 This is a project that uses GloVe embeddings and cosine similarity to classify feedback on Amazon question and answer datasets.
 
+<div style="display: flex;">
+  <img  src="https://images.pexels.com/photos/4175032/pexels-photo-4175032.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Image 1" style="width: 45%;">
+  <img src="https://images.pexels.com/photos/6667686/pexels-photo-6667686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Image 2" style="width: 45%;">
+</div>
+
 ## Installation
 
 To run this project, you will need the following Python packages:
